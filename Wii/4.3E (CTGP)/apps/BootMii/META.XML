@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>BootMii</name>
+  <coder>HighTeckMan</coder>
+  <version>1</version>
+  <release_date>20101224100000</release_date>
+  <short_description>Secondary Boot For Wii</short_description> 
+  <long_description>This application is designed to add a secondary boot partition "BootMii" to backup your NAND files incase anything goes wrong with the custom modding of your console</long_description> 
+  </app>
